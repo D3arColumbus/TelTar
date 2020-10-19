@@ -1,0 +1,4 @@
+bla, Gebühren: 10/Monat
+blaB, Gebühren: 15/Monat und 1/Minute
+Tarif1, Gebühren: 10/Monat
+Tarif2, Gebühren: 15/Monat und 1/Minute
